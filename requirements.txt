@@ -9,3 +9,4 @@ chromadb
 pypdf
 tavily-python
 python-dotenv
+langchain-community
