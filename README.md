@@ -5,6 +5,15 @@ A **Corrective Retrieval-Augmented Generation (CRAG)** application that answers 
 Built with Streamlit, LangChain, Gemini Embeddings, ChromaDB, Groq, and Tavily.
 
 ---
+## 🚀 Live Demo
+
+**[🔎 Try Corrective RAG Live](https://corrective-rag-a4wr7cy5xd8bbmmwuvfrpy.streamlit.app/)**
+
+Explore document-based question answering with relevance grading, query rewriting, and web-search fallback.
+
+**[💻 View Source Code on GitHub](https://github.com/kryptoadi/corrective-rag)**
+
+---
 
 ## ✨ Overview
 
